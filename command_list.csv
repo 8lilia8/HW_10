@@ -1,0 +1,104 @@
+    1  man ls
+    2  ls
+    3  ls
+    4  ls
+    5  ls
+    6  cd~
+    7  cd ~
+    8  cd /
+    9  ls
+   10  cd ..
+   11  clear
+   12  clear
+   13  git clone [200~https://github.com/8lilia8/HW_10.git~
+   14  git clone [200~https://github.com/8lilia8/HW_10.git~
+   15  clear
+   16  git clone [200~https://github.com/8lilia8/HW_10.git~
+   17  clear
+   18  git clone https://github.com/8lilia8/HW_10.git
+   19  cd ~
+   20  git clone https://github.com/8lilia8/HW_10.git
+   21  git clone https://github.com/8lilia8/HW_10.git
+   22  cd ~
+   23  git clone https://github.com/8lilia8/HW_10.git
+   24  git clone https://github.com/8lilia8/HW_10.git
+   25  cd ~
+   26  git clone https://github.com/8lilia8/HW_10.git
+   27  cd ~
+   28  git clone https://github.com/8lilia8/HW_10.git
+   29  cd ~
+   30  git clone https://github.com/8lilia8/HW_10.git
+   31  cd ~
+   32  git clone https://github.com/8lilia8/HW_10.git
+   33  rm -rf HW_10
+   34  cd ~
+   35  git clone https://github.com/8lilia8/HW_10.git
+   36  cd HW_10
+   37  ls
+   38  git status
+   39  touch text_ignore.txt
+   40  git add text_ignore.txt
+   41  git status
+   42  pwd
+   43  ls
+   44  git status
+   45  cd HW_10
+   46  git status
+   47  cd ~
+   48  git status
+   49  cd ~
+   50  cd HW_10
+   51  git status
+   52  cd HW_10
+   53  cd HW_10
+   54  ls
+   55  cd ~/Desktop
+   56  ls
+   57  cd HW_10
+   58  git status
+   59  git add .gitignore
+   60  git status
+   61  git commit -m ".gitignore updated"
+   62  git config --global user.name "Lilia Lilia"
+   63  git config --global user.email 20lilialilia04@gmail.com
+   64  git commit -m ".gitignore updated"
+   65  git status
+   66  git commit -m ".gitignore updated"
+   67  git status
+   68  git push
+   69  git config --global user.email "20lilialilia04@gmail.com"
+   70  git config --global user.name "8lilia8"
+   71  git status
+   72  git config --global user.name "8lilia8"
+   73  git config --global user.email "20lilialilia04@gmail.com"
+   74  git status
+   75  git push
+   76  git status
+   77  clear
+   78  touch main.test.txt
+   79  git add .
+   80  git commit -m "created empty file"
+   81  git push
+   82  clear
+   83  git checkout -b <develop>
+   84  git checkout -b develop
+   85  touch develop_test.txt
+   86  git add .
+   87  git commit -m "created empty file"
+   88  nano develop_test.txt
+   89  git status
+   90  git add .
+   91  git add develop_test.txt
+   92  git commit -m "edited"
+   93  git status
+   94  git push
+   95  git branch
+   96  git push --set-upstream origin develop
+   97  git push --set-upstream origin develop
+   98  clear
+   99  git checkout main
+  100  git merge develop
+  101  git log -3
+  102  history > command_list.csv
+  103  git push
+  104  history > command_list.csv
